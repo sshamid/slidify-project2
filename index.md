@@ -11,7 +11,6 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
  
-
 ## Volume of a Cylinder
 
 
@@ -63,7 +62,4 @@ Area <- 2 * pi * r * (r + h)
 ```
 
 Surface Area is 18.8496  $m^2$
-
-
-
 ---
